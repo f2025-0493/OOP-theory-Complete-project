@@ -1,0 +1,4 @@
+# MATH CHALLENGE SCORES
+M,4
+Hasanat,1
+jsdf,1
